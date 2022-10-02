@@ -1,0 +1,20 @@
+{
+    "name": "isave-for-ig",
+    "author": "alanbernale",
+    "version": "1.0.0",
+    "description": "Extensión para Chrome que te permite descargar fotos y videos de Instagram fácilmente.",
+    "main": "src/index.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "instagram",
+        "downloader",
+        "images",
+        "videos",
+        "stories",
+        "IGTV"
+    ],
+    "license": "MIT"
+}

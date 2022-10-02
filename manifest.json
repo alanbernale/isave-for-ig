@@ -1,0 +1,12 @@
+{
+    "name": "iSave for IG",
+    "description": "Extensión para Chrome que te permite descargar fotos y videos de Instagram fácilmente.",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "icons": {
+        "16": "/images/logo/isave-for-ig-isotipo-16.png",
+        "32": "/images/logo/isave-for-ig-isotipo-32.png",
+        "48": "/images/logo/isave-for-ig-isotipo-48.png",
+        "128": "/images/logo/isave-for-ig-isotipo-128.png"
+    }
+}
